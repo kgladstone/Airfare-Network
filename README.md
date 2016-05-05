@@ -12,4 +12,4 @@ This is the maximum value in the output file matrix.
 The images folder contains plots generated in MATLAB that show the relationship
 between certain parameters and the initial value function.
 
-Also included in this repo is the report that illustrates the mathematical model, and other findings.
+The report that illustrates the mathematical model, and other findings, which was turned in for the course is available upon request (email: keithag@princeton.edu).
