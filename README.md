@@ -1,4 +1,4 @@
-# airfare-network
+# Airfare-Network
 ORF 360: Decision Modeling in Business Analytics - Airfare Network Modeling
 The file ORF360_Airfare_Network.R uses the file 'csv/product_incidence' as input. 
 This file is a table that contains the product-incidence matrix, 
